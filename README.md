@@ -152,7 +152,7 @@ Potential enhancements include:
 
 *A short walkthrough video of the dashboard is available below.*
 
-> *(Add your portfolio video, GitHub video or YouTube link here.)*
+https://github.com/user-attachments/assets/8b8dc09a-f5e4-4caa-8e76-195c3f8a3025
 
 ---
 
